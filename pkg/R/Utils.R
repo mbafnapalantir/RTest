@@ -1,1 +1,0 @@
-rWorksInFoundry <- print("Hello World")
